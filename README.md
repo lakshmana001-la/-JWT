@@ -6,7 +6,6 @@
 | Student Registration Number | 252U1R5100 | Class & Section: 313 AI DE 2B |
 | Study Level : UG/PG/Doctorate | UG | Year & Term: 2 & 2 |
 | Subject Name | Backend Development Fundamentals | |
-| Teacher / Faculty Name | Joel Prashanth D | |
 | Name of the Assessment | LAB REPORT - 4 | |
 | Date of Submission | 17-11-2026 | |
 
